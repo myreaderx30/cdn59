@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="976" height="820" viewBox="0, 0, 976, 820">
+  <g id="Layer_1">
+    <g>
+      <path d="M-0,-0 L976,-0 L976,820 L-0,820 L-0,-0 z" fill="#FFFFFF"/>
+      <g>
+        <path d="M161.725,290.453 L810.725,290.453 L810.725,651.453 L161.725,651.453 L161.725,290.453 z" fill="#EFBBBC"/>
+        <path d="M161.725,290.453 L810.725,290.453 L810.725,651.453 L161.725,651.453 L161.725,290.453 z" fill-opacity="0" stroke="#656565" stroke-width="3"/>
+      </g>
+      <g>
+        <path d="M161.725,290.453 L381.725,290.453 L381.725,651.453 L161.725,651.453 L161.725,290.453 z" fill="#C6D1E2"/>
+        <path d="M161.725,290.453 L381.725,290.453 L381.725,651.453 L161.725,651.453 L161.725,290.453 z" fill-opacity="0" stroke="#656565" stroke-width="3"/>
+      </g>
+      <g>
+        <path d="M590.725,290.453 L810.725,290.453 L810.725,651.453 L590.725,651.453 L590.725,290.453 z" fill="#B9DFDF"/>
+        <path d="M590.725,290.453 L810.725,290.453 L810.725,651.453 L590.725,651.453 L590.725,290.453 z" fill-opacity="0" stroke="#656565" stroke-width="3"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 271.225, 708.953)">
+        <tspan x="-70.38" y="10.5" font-family="Avenir-Medium" font-size="36" fill="#626264">Cathode</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 700.225, 708.953)">
+        <tspan x="-54.378" y="10.5" font-family="Avenir-Medium" font-size="36" fill="#626264">Anode</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 492.845, 708.953)">
+        <tspan x="-87.678" y="10.5" font-family="Avenir-Medium" font-size="36" fill="#626264">Electrolyte</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 574.845, 199.953)">
+        <tspan x="-80.37" y="10.5" font-family="Avenir-Medium" font-size="36" fill="#626264">Separator</tspan>
+      </text>
+      <g>
+        <path d="M497.062,267.94 C512.381,235.173 569.692,232.613 567.096,213.605" fill-opacity="0" stroke="#A3A3A3" stroke-width="5"/>
+        <path d="M491.778,266.828 L494.097,282.032 L502.346,269.052 z" fill="#A3A3A3" fill-opacity="1" stroke="#A3A3A3" stroke-width="5" stroke-opacity="1"/>
+      </g>
+      <path d="M493.345,290.453 L493.345,651.453" fill-opacity="0" stroke="#A3A3A3" stroke-width="11" stroke-dasharray="33,22"/>
+      <path d="M484.558,290.453 L484.558,651.453" fill-opacity="0" stroke="#A3A3A3" stroke-width="11" stroke-dasharray="33,22"/>
+      <g>
+        <path d="M267.096,690.605 L278.701,629.485" fill-opacity="0" stroke="#A3A3A3" stroke-width="5"/>
+        <path d="M284.006,630.493 L281.387,615.338 L273.396,628.478 z" fill="#A3A3A3" fill-opacity="1" stroke="#A3A3A3" stroke-width="5" stroke-opacity="1"/>
+      </g>
+      <g>
+        <path d="M514.096,695.605 L525.701,634.485" fill-opacity="0" stroke="#A3A3A3" stroke-width="5"/>
+        <path d="M531.006,635.493 L528.387,620.338 L520.396,633.478 z" fill="#A3A3A3" fill-opacity="1" stroke="#A3A3A3" stroke-width="5" stroke-opacity="1"/>
+      </g>
+      <g>
+        <path d="M467.763,695.605 L456.158,634.485" fill-opacity="0" stroke="#A3A3A3" stroke-width="5"/>
+        <path d="M461.463,633.478 L453.472,620.338 L450.853,635.493 z" fill="#A3A3A3" fill-opacity="1" stroke="#A3A3A3" stroke-width="5" stroke-opacity="1"/>
+      </g>
+      <g>
+        <path d="M708.225,695.605 L696.62,634.485" fill-opacity="0" stroke="#A3A3A3" stroke-width="5"/>
+        <path d="M701.925,633.478 L693.934,620.338 L691.315,635.493 z" fill="#A3A3A3" fill-opacity="1" stroke="#A3A3A3" stroke-width="5" stroke-opacity="1"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 706.596, 241.105)">
+        <tspan x="-127" y="-10" font-family="Avenir-Medium" font-size="18" fill="#149696">Prevents contact between </tspan>
+        <tspan x="-127" y="15" font-family="Avenir-Medium" font-size="18" fill="#149696">anode &amp; cathode</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 225.596, 772.453)">
+        <tspan x="-86.75" y="-20" font-family="Avenir-Medium" font-size="18" fill="#149696">The source of lithium ions: </tspan>
+        <tspan x="-86.696" y="5" font-family="Avenir-Medium" font-size="18" fill="#149696">determines the capacity &amp; </tspan>
+        <tspan x="-4.382" y="30" font-family="Avenir-Medium" font-size="18" fill="#149696">average voltage</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 763.596, 772.453)">
+        <tspan x="-127" y="-20" font-family="Avenir-Medium" font-size="18" fill="#149696">Stores &amp; releases lithium ions </tspan>
+        <tspan x="-127" y="5" font-family="Avenir-Medium" font-size="18" fill="#149696">enabling current to pass into </tspan>
+        <tspan x="-127" y="30" font-family="Avenir-Medium" font-size="18" fill="#149696">an external circuit</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 492.845, 772.453)">
+        <tspan x="-92.52" y="-20" font-family="Avenir-Medium" font-size="18" fill="#149696">Allows passage of ions </tspan>
+        <tspan x="-72.702" y="5" font-family="Avenir-Medium" font-size="18" fill="#149696">between anode &amp; </tspan>
+        <tspan x="-33.192" y="30" font-family="Avenir-Medium" font-size="18" fill="#149696">cathode</tspan>
+      </text>
+      <g>
+        <text transform="matrix(1, 0, 0, 1, 111.572, 546.453)">
+          <tspan x="-23.976" y="22" font-family="Avenir-Medium" font-size="72" fill="#149696">+</tspan>
+        </text>
+        <path d="M112.072,579.605 C93.114,579.605 77.746,564.237 77.746,545.279 C77.746,526.321 93.114,510.953 112.072,510.953 C131.03,510.953 146.398,526.321 146.398,545.279 C146.398,564.237 131.03,579.605 112.072,579.605 z" fill-opacity="0" stroke="#656565" stroke-width="7"/>
+      </g>
+      <g>
+        <text transform="matrix(1, 0, 0, 1, 856.27, 536.105)">
+          <tspan x="-18.328" y="36" font-family="Avenir-Medium" font-size="116" fill="#149696">-</tspan>
+        </text>
+        <path d="M856.77,577.757 C837.812,577.757 822.444,562.389 822.444,543.431 C822.444,524.473 837.812,509.105 856.77,509.105 C875.728,509.105 891.096,524.473 891.096,543.431 C891.096,562.389 875.728,577.757 856.77,577.757 z" fill-opacity="0" stroke="#656565" stroke-width="7"/>
+      </g>
+      <path d="M161.725,483.605 L18.096,483.605" fill-opacity="0" stroke="#000000" stroke-width="4"/>
+      <path d="M18.096,483.605 L18.096,75.605" fill-opacity="0" stroke="#000000" stroke-width="4"/>
+      <path d="M18.096,75.605 L956.096,75.605" fill-opacity="0" stroke="#000000" stroke-width="4"/>
+      <path d="M956.096,75.605 L956.096,470.605" fill-opacity="0" stroke="#000000" stroke-width="4"/>
+      <path d="M956.096,470.605 L810.725,470.605" fill-opacity="0" stroke="#000000" stroke-width="4"/>
+      <g>
+        <path d="M415.54,103.162 L415.54,48.047 L590.725,48.047 L590.725,103.162 L415.54,103.162 z" fill="#FFFFFF"/>
+        <path d="M415.54,103.162 L415.54,48.047 L590.725,48.047 L590.725,103.162 L415.54,103.162 z" fill-opacity="0" stroke="#000000" stroke-width="4"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 502.632, 26.547)">
+        <tspan x="-104.445" y="9" font-family="Avenir-Medium" font-size="30" fill="#656565">External Circuit</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
